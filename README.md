@@ -1,6 +1,6 @@
 # happy
 
-<h3 align="center">-</h3>
+<h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=happyyhastag0001&label=Profile%20views&color=0e75b6&style=flat" alt="happyyhastag0001" /> </p>
 
