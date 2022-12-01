@@ -6,6 +6,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+</a> <a href="https://www.lua.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="lua" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
