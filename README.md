@@ -6,7 +6,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-</a> <a href="https://discord.com/users/506812369427759124" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/4945/4945973.png" alt="discord" width="40" height="40"/> </a>
+</a> <a href="placeholder.com" target="_blank">Opens in new tab</a> <img src="https://cdn-icons-png.flaticon.com/512/4945/4945973.png" alt="discord" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
