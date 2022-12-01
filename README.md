@@ -6,7 +6,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-</a> <a href="https://www.lua.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="lua" width="40" height="40"/> </a>
+</a> <a href="https://discord.com/users/506812369427759124" target="_blank" rel="noreferrer"> <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6918e57475a843f59f_icon_clyde_black_RGB.svg" alt="lua" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
